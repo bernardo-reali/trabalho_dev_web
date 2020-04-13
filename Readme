@@ -1,0 +1,6 @@
+EXPLICAÇÃO DO MAPA DO SITE DESENVOLVIDO PRA DISCIPLINA
+
+Explicando um pouco do nosso mapeamento.
+O Index (página inicial) irá lhe dar duas opções: o lado de Gabriel e o lado de Bernardo.
+A depender de quem o usuário escolher, ele irá ser direcionado para os gostos da pessoa escolhida, onde teremos páginas e/ou seções (ainda a escolher conforme o desenvolvimento do site) que serão divididas com o tema "música", "esportes" e "filmes/séries favoritos". 
+O desenvolvimento dependerá de quais recursos poderemos usar (HTML e CSS puro ou JavaScript para podermos criar funções).
